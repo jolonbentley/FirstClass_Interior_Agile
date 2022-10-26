@@ -1,12 +1,12 @@
 # FirstClass_Interior_Agile
 
-Product Owner: Subin Lee
+Product Owner: Jared Requieron
 
 Developer: Harrison Popham
 
 Designer/Developer: Jolon Morris-Bentley
 
-Team Lead/Scrum Master: Jared Equieron
+Team Lead/Scrum Master: Subin Lee
 
 
 All files are compatible with VSCode and live server.
